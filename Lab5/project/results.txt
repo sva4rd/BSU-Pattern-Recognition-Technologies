@@ -1,0 +1,282 @@
+Epoch: 1, Test Loss: 0.0117, Accuracy: 77.33%
+Epoch: 2, Test Loss: 0.0099, Accuracy: 81.41%
+Epoch: 3, Test Loss: 0.0095, Accuracy: 82.33%
+Epoch: 4, Test Loss: 0.0087, Accuracy: 83.78%
+Epoch: 5, Test Loss: 0.0083, Accuracy: 84.55%
+Epoch: 6, Test Loss: 0.0084, Accuracy: 83.96%
+Epoch: 7, Test Loss: 0.0078, Accuracy: 85.22%
+Epoch: 8, Test Loss: 0.0084, Accuracy: 83.99%
+Epoch: 9, Test Loss: 0.0076, Accuracy: 85.73%
+Epoch: 10, Test Loss: 0.0072, Accuracy: 86.46%
+Training model with 5 and 10 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0099, Accuracy: 80.61%
+Epoch: 2, Test Loss: 0.0087, Accuracy: 83.22%
+Epoch: 3, Test Loss: 0.0081, Accuracy: 84.23%
+Epoch: 4, Test Loss: 0.0077, Accuracy: 85.48%
+Epoch: 5, Test Loss: 0.0081, Accuracy: 84.43%
+Epoch: 6, Test Loss: 0.0067, Accuracy: 87.53%
+Epoch: 7, Test Loss: 0.0064, Accuracy: 88.38%
+Epoch: 8, Test Loss: 0.0060, Accuracy: 88.72%
+Epoch: 9, Test Loss: 0.0059, Accuracy: 88.86%
+Epoch: 10, Test Loss: 0.0061, Accuracy: 88.62%
+Training model with 5 and 15 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0195, Accuracy: 58.31%
+Epoch: 2, Test Loss: 0.0164, Accuracy: 65.31%
+Epoch: 3, Test Loss: 0.0160, Accuracy: 65.69%
+Epoch: 4, Test Loss: 0.0156, Accuracy: 66.22%
+Epoch: 5, Test Loss: 0.0151, Accuracy: 67.53%
+Epoch: 6, Test Loss: 0.0153, Accuracy: 66.80%
+Epoch: 7, Test Loss: 0.0157, Accuracy: 65.62%
+Epoch: 8, Test Loss: 0.0148, Accuracy: 68.12%
+Epoch: 9, Test Loss: 0.0149, Accuracy: 67.53%
+Epoch: 10, Test Loss: 0.0146, Accuracy: 68.59%
+Training model with 5 and 20 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0099, Accuracy: 80.83%
+Epoch: 2, Test Loss: 0.0081, Accuracy: 84.23%
+Epoch: 3, Test Loss: 0.0076, Accuracy: 85.36%
+Epoch: 4, Test Loss: 0.0076, Accuracy: 85.41%
+Epoch: 5, Test Loss: 0.0072, Accuracy: 86.29%
+Epoch: 6, Test Loss: 0.0074, Accuracy: 86.03%
+Epoch: 7, Test Loss: 0.0072, Accuracy: 85.75%
+Epoch: 8, Test Loss: 0.0070, Accuracy: 86.23%
+Epoch: 9, Test Loss: 0.0070, Accuracy: 86.56%
+Epoch: 10, Test Loss: 0.0068, Accuracy: 86.53%
+Training model with 5 and 25 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0104, Accuracy: 79.04%
+Epoch: 2, Test Loss: 0.0086, Accuracy: 84.29%
+Epoch: 3, Test Loss: 0.0078, Accuracy: 85.23%
+Epoch: 4, Test Loss: 0.0086, Accuracy: 83.16%
+Epoch: 5, Test Loss: 0.0075, Accuracy: 85.81%
+Epoch: 6, Test Loss: 0.0077, Accuracy: 85.18%
+Epoch: 7, Test Loss: 0.0071, Accuracy: 86.71%
+Epoch: 8, Test Loss: 0.0074, Accuracy: 85.38%
+Epoch: 9, Test Loss: 0.0072, Accuracy: 85.97%
+Epoch: 10, Test Loss: 0.0072, Accuracy: 86.57%
+Training model with 10 and 5 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0108, Accuracy: 80.02%
+Epoch: 2, Test Loss: 0.0093, Accuracy: 82.82%
+Epoch: 3, Test Loss: 0.0085, Accuracy: 84.45%
+Epoch: 4, Test Loss: 0.0079, Accuracy: 85.64%
+Epoch: 5, Test Loss: 0.0075, Accuracy: 86.42%
+Epoch: 6, Test Loss: 0.0071, Accuracy: 87.63%
+Epoch: 7, Test Loss: 0.0067, Accuracy: 88.06%
+Epoch: 8, Test Loss: 0.0069, Accuracy: 87.74%
+Epoch: 9, Test Loss: 0.0063, Accuracy: 89.08%
+Epoch: 10, Test Loss: 0.0062, Accuracy: 89.17%
+Training model with 10 and 10 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0071, Accuracy: 86.83%
+Epoch: 2, Test Loss: 0.0063, Accuracy: 88.21%
+Epoch: 3, Test Loss: 0.0061, Accuracy: 88.61%
+Epoch: 4, Test Loss: 0.0057, Accuracy: 89.43%
+Epoch: 5, Test Loss: 0.0057, Accuracy: 89.72%
+Epoch: 6, Test Loss: 0.0058, Accuracy: 89.59%
+Epoch: 7, Test Loss: 0.0055, Accuracy: 89.92%
+Epoch: 8, Test Loss: 0.0057, Accuracy: 89.78%
+Epoch: 9, Test Loss: 0.0054, Accuracy: 90.13%
+Epoch: 10, Test Loss: 0.0054, Accuracy: 90.35%
+Training model with 10 and 15 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0076, Accuracy: 85.43%
+Epoch: 2, Test Loss: 0.0067, Accuracy: 87.37%
+Epoch: 3, Test Loss: 0.0060, Accuracy: 89.11%
+Epoch: 4, Test Loss: 0.0058, Accuracy: 88.94%
+Epoch: 5, Test Loss: 0.0057, Accuracy: 89.67%
+Epoch: 6, Test Loss: 0.0055, Accuracy: 89.82%
+Epoch: 7, Test Loss: 0.0054, Accuracy: 89.90%
+Epoch: 8, Test Loss: 0.0055, Accuracy: 89.72%
+Epoch: 9, Test Loss: 0.0056, Accuracy: 89.15%
+Epoch: 10, Test Loss: 0.0053, Accuracy: 90.41%
+Training model with 10 and 20 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0079, Accuracy: 84.51%
+Epoch: 2, Test Loss: 0.0066, Accuracy: 87.46%
+Epoch: 3, Test Loss: 0.0061, Accuracy: 88.46%
+Epoch: 4, Test Loss: 0.0057, Accuracy: 89.01%
+Epoch: 5, Test Loss: 0.0059, Accuracy: 88.83%
+Epoch: 6, Test Loss: 0.0054, Accuracy: 89.56%
+Epoch: 7, Test Loss: 0.0061, Accuracy: 87.66%
+Epoch: 8, Test Loss: 0.0055, Accuracy: 89.37%
+Epoch: 9, Test Loss: 0.0053, Accuracy: 89.80%
+Epoch: 10, Test Loss: 0.0050, Accuracy: 90.42%
+Training model with 10 and 25 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0057, Accuracy: 89.68%
+Epoch: 2, Test Loss: 0.0055, Accuracy: 89.83%
+Epoch: 3, Test Loss: 0.0047, Accuracy: 91.28%
+Epoch: 4, Test Loss: 0.0048, Accuracy: 91.03%
+Epoch: 5, Test Loss: 0.0043, Accuracy: 92.20%
+Epoch: 6, Test Loss: 0.0041, Accuracy: 92.27%
+Epoch: 7, Test Loss: 0.0039, Accuracy: 92.62%
+Epoch: 8, Test Loss: 0.0040, Accuracy: 92.69%
+Epoch: 9, Test Loss: 0.0037, Accuracy: 92.97%
+Epoch: 10, Test Loss: 0.0037, Accuracy: 93.16%
+Training model with 15 and 5 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0099, Accuracy: 79.61%
+Epoch: 2, Test Loss: 0.0076, Accuracy: 86.00%
+Epoch: 3, Test Loss: 0.0065, Accuracy: 88.22%
+Epoch: 4, Test Loss: 0.0060, Accuracy: 88.98%
+Epoch: 5, Test Loss: 0.0057, Accuracy: 89.59%
+Epoch: 6, Test Loss: 0.0056, Accuracy: 89.79%
+Epoch: 7, Test Loss: 0.0055, Accuracy: 90.09%
+Epoch: 8, Test Loss: 0.0051, Accuracy: 90.87%
+Epoch: 9, Test Loss: 0.0056, Accuracy: 89.61%
+Epoch: 10, Test Loss: 0.0050, Accuracy: 90.78%
+Training model with 15 and 10 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0065, Accuracy: 87.50%
+Epoch: 2, Test Loss: 0.0055, Accuracy: 89.94%
+Epoch: 3, Test Loss: 0.0048, Accuracy: 91.00%
+Epoch: 4, Test Loss: 0.0049, Accuracy: 90.74%
+Epoch: 5, Test Loss: 0.0043, Accuracy: 92.06%
+Epoch: 6, Test Loss: 0.0044, Accuracy: 91.67%
+Epoch: 7, Test Loss: 0.0039, Accuracy: 92.66%
+Epoch: 8, Test Loss: 0.0038, Accuracy: 93.00%
+Epoch: 9, Test Loss: 0.0037, Accuracy: 93.35%
+Epoch: 10, Test Loss: 0.0038, Accuracy: 92.94%
+Training model with 15 and 15 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0059, Accuracy: 89.10%
+Epoch: 2, Test Loss: 0.0052, Accuracy: 90.64%
+Epoch: 3, Test Loss: 0.0048, Accuracy: 91.01%
+Epoch: 4, Test Loss: 0.0045, Accuracy: 91.57%
+Epoch: 5, Test Loss: 0.0045, Accuracy: 91.79%
+Epoch: 6, Test Loss: 0.0057, Accuracy: 89.28%
+Epoch: 7, Test Loss: 0.0043, Accuracy: 91.75%
+Epoch: 8, Test Loss: 0.0042, Accuracy: 92.22%
+Epoch: 9, Test Loss: 0.0044, Accuracy: 91.44%
+Epoch: 10, Test Loss: 0.0040, Accuracy: 92.47%
+Training model with 15 and 20 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0062, Accuracy: 88.03%
+Epoch: 2, Test Loss: 0.0055, Accuracy: 90.06%
+Epoch: 3, Test Loss: 0.0056, Accuracy: 89.53%
+Epoch: 4, Test Loss: 0.0047, Accuracy: 91.23%
+Epoch: 5, Test Loss: 0.0045, Accuracy: 91.52%
+Epoch: 6, Test Loss: 0.0048, Accuracy: 91.03%
+Epoch: 7, Test Loss: 0.0050, Accuracy: 90.69%
+Epoch: 8, Test Loss: 0.0045, Accuracy: 91.60%
+Epoch: 9, Test Loss: 0.0043, Accuracy: 92.03%
+Epoch: 10, Test Loss: 0.0042, Accuracy: 92.15%
+Training model with 15 and 25 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0060, Accuracy: 88.75%
+Epoch: 2, Test Loss: 0.0053, Accuracy: 90.33%
+Epoch: 3, Test Loss: 0.0051, Accuracy: 90.59%
+Epoch: 4, Test Loss: 0.0046, Accuracy: 91.53%
+Epoch: 5, Test Loss: 0.0043, Accuracy: 91.94%
+Epoch: 6, Test Loss: 0.0049, Accuracy: 90.90%
+Epoch: 7, Test Loss: 0.0041, Accuracy: 92.50%
+Epoch: 8, Test Loss: 0.0043, Accuracy: 91.92%
+Epoch: 9, Test Loss: 0.0039, Accuracy: 92.63%
+Epoch: 10, Test Loss: 0.0041, Accuracy: 92.21%
+Training model with 20 and 5 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0095, Accuracy: 82.31%
+Epoch: 2, Test Loss: 0.0067, Accuracy: 88.22%
+Epoch: 3, Test Loss: 0.0061, Accuracy: 88.81%
+Epoch: 4, Test Loss: 0.0062, Accuracy: 88.29%
+Epoch: 5, Test Loss: 0.0060, Accuracy: 88.24%
+Epoch: 6, Test Loss: 0.0048, Accuracy: 91.18%
+Epoch: 7, Test Loss: 0.0046, Accuracy: 91.42%
+Epoch: 8, Test Loss: 0.0046, Accuracy: 91.47%
+Epoch: 9, Test Loss: 0.0042, Accuracy: 92.20%
+Epoch: 10, Test Loss: 0.0041, Accuracy: 92.44%
+Training model with 20 and 10 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0062, Accuracy: 88.92%
+Epoch: 2, Test Loss: 0.0057, Accuracy: 89.59%
+Epoch: 3, Test Loss: 0.0051, Accuracy: 90.53%
+Epoch: 4, Test Loss: 0.0050, Accuracy: 90.75%
+Epoch: 5, Test Loss: 0.0048, Accuracy: 91.27%
+Epoch: 6, Test Loss: 0.0044, Accuracy: 91.73%
+Epoch: 7, Test Loss: 0.0044, Accuracy: 91.68%
+Epoch: 8, Test Loss: 0.0044, Accuracy: 91.81%
+Epoch: 9, Test Loss: 0.0044, Accuracy: 91.62%
+Epoch: 10, Test Loss: 0.0041, Accuracy: 92.21%
+Training model with 20 and 15 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0065, Accuracy: 87.83%
+Epoch: 2, Test Loss: 0.0057, Accuracy: 89.37%
+Epoch: 3, Test Loss: 0.0055, Accuracy: 89.65%
+Epoch: 4, Test Loss: 0.0049, Accuracy: 91.12%
+Epoch: 5, Test Loss: 0.0046, Accuracy: 91.74%
+Epoch: 6, Test Loss: 0.0050, Accuracy: 90.92%
+Epoch: 7, Test Loss: 0.0050, Accuracy: 90.88%
+Epoch: 8, Test Loss: 0.0044, Accuracy: 91.75%
+Epoch: 9, Test Loss: 0.0044, Accuracy: 92.03%
+Epoch: 10, Test Loss: 0.0046, Accuracy: 91.16%
+Training model with 20 and 20 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0059, Accuracy: 88.85%
+Epoch: 2, Test Loss: 0.0049, Accuracy: 90.56%
+Epoch: 3, Test Loss: 0.0049, Accuracy: 90.47%
+Epoch: 4, Test Loss: 0.0041, Accuracy: 92.35%
+Epoch: 5, Test Loss: 0.0040, Accuracy: 92.67%
+Epoch: 6, Test Loss: 0.0040, Accuracy: 92.53%
+Epoch: 7, Test Loss: 0.0038, Accuracy: 93.12%
+Epoch: 8, Test Loss: 0.0035, Accuracy: 93.46%
+Epoch: 9, Test Loss: 0.0035, Accuracy: 93.75%
+Epoch: 10, Test Loss: 0.0041, Accuracy: 92.14%
+Training model with 20 and 25 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0061, Accuracy: 88.04%
+Epoch: 2, Test Loss: 0.0054, Accuracy: 89.53%
+Epoch: 3, Test Loss: 0.0047, Accuracy: 90.93%
+Epoch: 4, Test Loss: 0.0048, Accuracy: 90.38%
+Epoch: 5, Test Loss: 0.0042, Accuracy: 92.03%
+Epoch: 6, Test Loss: 0.0039, Accuracy: 92.36%
+Epoch: 7, Test Loss: 0.0036, Accuracy: 92.86%
+Epoch: 8, Test Loss: 0.0031, Accuracy: 94.09%
+Epoch: 9, Test Loss: 0.0031, Accuracy: 94.12%
+Epoch: 10, Test Loss: 0.0030, Accuracy: 94.22%
+Training model with 25 and 5 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0083, Accuracy: 84.76%
+Epoch: 2, Test Loss: 0.0062, Accuracy: 88.60%
+Epoch: 3, Test Loss: 0.0056, Accuracy: 89.41%
+Epoch: 4, Test Loss: 0.0049, Accuracy: 91.00%
+Epoch: 5, Test Loss: 0.0043, Accuracy: 91.89%
+Epoch: 6, Test Loss: 0.0040, Accuracy: 92.57%
+Epoch: 7, Test Loss: 0.0039, Accuracy: 92.89%
+Epoch: 8, Test Loss: 0.0040, Accuracy: 92.63%
+Epoch: 9, Test Loss: 0.0036, Accuracy: 93.34%
+Epoch: 10, Test Loss: 0.0038, Accuracy: 92.97%
+Training model with 25 and 10 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0060, Accuracy: 89.04%
+Epoch: 2, Test Loss: 0.0054, Accuracy: 89.99%
+Epoch: 3, Test Loss: 0.0047, Accuracy: 91.36%
+Epoch: 4, Test Loss: 0.0043, Accuracy: 91.95%
+Epoch: 5, Test Loss: 0.0039, Accuracy: 92.79%
+Epoch: 6, Test Loss: 0.0037, Accuracy: 92.90%
+Epoch: 7, Test Loss: 0.0038, Accuracy: 93.09%
+Epoch: 8, Test Loss: 0.0036, Accuracy: 93.25%
+Epoch: 9, Test Loss: 0.0038, Accuracy: 93.02%
+Epoch: 10, Test Loss: 0.0034, Accuracy: 93.81%
+Training model with 25 and 15 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0059, Accuracy: 89.14%
+Epoch: 2, Test Loss: 0.0048, Accuracy: 91.21%
+Epoch: 3, Test Loss: 0.0046, Accuracy: 91.31%
+Epoch: 4, Test Loss: 0.0043, Accuracy: 91.81%
+Epoch: 5, Test Loss: 0.0039, Accuracy: 92.72%
+Epoch: 6, Test Loss: 0.0038, Accuracy: 92.57%
+Epoch: 7, Test Loss: 0.0034, Accuracy: 93.72%
+Epoch: 8, Test Loss: 0.0033, Accuracy: 93.86%
+Epoch: 9, Test Loss: 0.0032, Accuracy: 94.31%
+Epoch: 10, Test Loss: 0.0032, Accuracy: 93.87%
+Training model with 25 and 20 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0059, Accuracy: 89.38%
+Epoch: 2, Test Loss: 0.0048, Accuracy: 90.83%
+Epoch: 3, Test Loss: 0.0042, Accuracy: 92.26%
+Epoch: 4, Test Loss: 0.0038, Accuracy: 93.08%
+Epoch: 5, Test Loss: 0.0036, Accuracy: 93.43%
+Epoch: 6, Test Loss: 0.0032, Accuracy: 93.98%
+Epoch: 7, Test Loss: 0.0033, Accuracy: 93.42%
+Epoch: 8, Test Loss: 0.0031, Accuracy: 93.98%
+Epoch: 9, Test Loss: 0.0030, Accuracy: 94.33%
+Epoch: 10, Test Loss: 0.0031, Accuracy: 93.89%
+Training model with 25 and 25 neurons in the hidden layers.
+Epoch: 1, Test Loss: 0.0055, Accuracy: 89.92%
+Epoch: 2, Test Loss: 0.0047, Accuracy: 91.13%
+Epoch: 3, Test Loss: 0.0052, Accuracy: 89.67%
+Epoch: 4, Test Loss: 0.0038, Accuracy: 92.66%
+Epoch: 5, Test Loss: 0.0039, Accuracy: 92.27%
+Epoch: 6, Test Loss: 0.0036, Accuracy: 92.89%
+Epoch: 7, Test Loss: 0.0037, Accuracy: 92.84%
+Epoch: 8, Test Loss: 0.0035, Accuracy: 93.05%
+Epoch: 9, Test Loss: 0.0033, Accuracy: 93.85%
+Epoch: 10, Test Loss: 0.0032, Accuracy: 93.86%
+
+
+           5          	10         	15         	20         		25
+5   86.458333  88.858333  68.591667  86.558333  86.708333
+10  89.175000  90.350000  90.408333  90.416667  93.158333
+15  90.866667  93.350000  92.466667  92.150000  92.633333
+20  92.441667  92.208333  92.025000  93.750000  94.216667
+25  93.341667  93.808333  94.308333  94.325000  93.858333
